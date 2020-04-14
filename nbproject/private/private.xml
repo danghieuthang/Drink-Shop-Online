@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Lab/Lab%20PRJ321/HanaShop/src/java/thangdh/controllers/AddToCartController.java</file>
+            <file>file:/D:/Lab/Lab%20PRJ321/HanaShop/src/java/thangdh/controllers/DeleteDrinkController.java</file>
+            <file>file:/D:/Lab/Lab%20PRJ321/HanaShop/web/header.jsp</file>
+            <file>file:/D:/Lab/Lab%20PRJ321/HanaShop/src/java/thangdh/filters/FilterDispatcher.java</file>
+            <file>file:/D:/Lab/Lab%20PRJ321/HanaShop/web/login.jsp</file>
+            <file>file:/D:/Lab/Lab%20PRJ321/HanaShop/src/java/thangdh/controllers/CheckOutController.java</file>
+            <file>file:/D:/Lab/Lab%20PRJ321/HanaShop/src/java/thangdh/daos/DrinkDAO.java</file>
+            <file>file:/D:/Lab/Lab%20PRJ321/HanaShop/web/checkout.jsp</file>
+            <file>file:/D:/Lab/Lab%20PRJ321/HanaShop/web/shop.jsp</file>
+            <file>file:/D:/Lab/Lab%20PRJ321/HanaShop/src/java/thangdh/controllers/SearchDrinkController.java</file>
+            <file>file:/D:/Lab/Lab%20PRJ321/HanaShop/src/java/thangdh/entities/GooglePojo.java</file>
+            <file>file:/D:/Lab/Lab%20PRJ321/HanaShop/src/java/thangdh/entities/PaymentServices.java</file>
+            <file>file:/D:/Lab/Lab%20PRJ321/HanaShop/web/history.jsp</file>
+            <file>file:/D:/Lab/Lab%20PRJ321/HanaShop/src/java/thangdh/controllers/ExecutePaymentController.java</file>
+            <file>file:/D:/Lab/Lab%20PRJ321/HanaShop/src/java/thangdh/controllers/ViewHistoryController.java</file>
+            <file>file:/D:/Lab/Lab%20PRJ321/HanaShop/src/java/thangdh/controllers/RegistrationController.java</file>
+            <file>file:/D:/Lab/Lab%20PRJ321/HanaShop/src/java/thangdh/controllers/UpdateDrinkController.java</file>
+            <file>file:/D:/Lab/Lab%20PRJ321/HanaShop/web/cart.jsp</file>
+            <file>file:/D:/Lab/Lab%20PRJ321/HanaShop/src/java/thangdh/controllers/ViewCartController.java</file>
+            <file>file:/D:/Lab/Lab%20PRJ321/HanaShop/web/WEB-INF/web.xml</file>
+            <file>file:/D:/Lab/Lab%20PRJ321/HanaShop/src/java/thangdh/daos/TransactionDAO.java</file>
+            <file>file:/D:/Lab/Lab%20PRJ321/HanaShop/src/java/thangdh/controllers/AuthorizePaymentController.java</file>
+            <file>file:/D:/Lab/Lab%20PRJ321/HanaShop/web/manager.jsp</file>
+        </group>
+    </open-files>
+</project-private>
