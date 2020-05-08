@@ -14,7 +14,7 @@
     </li>
     <li>Function 7: Shopping history
     </li>
-    <li>Function 8: : Integrate online payment with paypal
+    <li>Function 8: Integrate online payment with paypal
     </li>
-  <li>Product recommendation</li>
+  <li>Function 9: Product recommendation</li>
 </ul>
